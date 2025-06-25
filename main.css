@@ -1,3 +1,42 @@
 #firstheader {
     border: 5px dotted darkblue;
 }
+
+.cardholder{
+    border: 2px solid greenyellow;
+    /* height: 200px; */
+    width: 300px;
+    padding: 20px;
+    margin: 20px 0px;
+}
+.daisy {
+    border: 2px solid red;
+
+
+
+    /* Padding box model property ( clockwise TRBL ) */
+    /* padding:20px; */
+    /* padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 20px;
+ */
+
+
+
+
+
+
+/* Top and bottom: 0px; left and right: 20px; */
+/* padding: */
+
+
+/* ( clockwise TRBL ) */
+padding: 100 26 69 0;
+
+/* margin-bottom: 42px;
+margin-left: 30px;
+margin-top: 60px; */
+
+margin: 30px 20px;
+}
