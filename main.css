@@ -3,12 +3,33 @@
 }
 
 .cardholder{
+    /* css specify */
     border: 2px solid greenyellow;
+    /* margin: 200px; */
     /* height: 200px; */
     width: 300px;
     padding: 20px 35px;
     margin: 20px 0px;
+
+   display: inline-block; 
 }
+
+
+
+.firstcard {
+    border: 2px solid tomato;
+    /* margin-left:auto; */
+    /* margin-right:auto; */
+}
+
+.parentdiv {
+    /* border: 2px solid blue; */
+    width: 85%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .daisy {
     border: 2px solid red;
 
@@ -21,8 +42,6 @@
     padding-right: 10px;
     padding-top: 20px;
  */
-
-
 
 
 
