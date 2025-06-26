@@ -1,33 +1,87 @@
-#firstheader {
-    border: 5px dotted darkblue;
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
 }
+
 
 .cardholder{
     /* css specify */
-    border: 2px solid greenyellow;
+    border: 2px solid lightpink;
     /* margin-left: 200px; */
     /* height: 200px; */
-    width: 300px;
-    padding: 20px 35px;
-    margin: 20px 0px;
-   display: inline-block; 
+    width: 350px;
+    padding: 15px;
+    margin: 20px 10px;
+    height: 210px;
+    vertical-align: middle;
+    display: inline-block; 
+    border-radius: 8px;
+    text-align: left;
+
+   
 }
 
 
 
 .firstcard {
-    border: 2px solid tomato;
+    border: 2px solid lightpink;
+    /* text-align: right; */
     /* margin-left:auto; */
     /* margin-right:auto; */
+
+    /* border-top-right-radius: 20px; */
+    /* border-bottom-left-radius: 20px; */
 }
 
 .parentdiv {
-    /* border: 2px solid blue;  */
-    width: 85%;
+    /* border: 2px solid blue;   */
+    width: 100%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
+
+
+
+
+.custom-roundedshape {
+    height: 45px; 
+    width: 45px;
+    border-radius: 50%;
+    border: 2px solid lightpink;
+    text-align:center;
+    display: inline-block;
+}
+
+
+.custom-icons {
+    color: lightskyblue;
+    font-size: 24px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+
+h2 {
+    display: inline-block;
+}
+
+
+
+.header-container {
+    border: 2px solid transparent;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
 
 .daisy {
     /* border-width: 5px; */
