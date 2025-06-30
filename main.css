@@ -117,3 +117,20 @@ margin-top: 60px; */
 
 margin: 30px 20px;
 }
+
+
+.menu_header {
+    border: 5px solid lightpink;
+    background-color: lightpink;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.roundedsquare {
+    border: 2px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 10px;
+}
